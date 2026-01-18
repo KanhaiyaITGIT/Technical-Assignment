@@ -1,0 +1,7 @@
+project_name  = "myproject"
+environment   = "dev"
+vpc_cidr      = "10.0.0.0/16"
+azs           = ["ap-south-1a","ap-south-1b"]
+cluster_name  = "myproject-eks"
+eks_version   = "1.28"
+aws_region    = "ap-south-1"
